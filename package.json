@@ -1,0 +1,37 @@
+{
+  "name": "butter-money-assign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.7",
+    "@types/draft-js": "^0.11.18",
+    "@types/react-pdf": "^5.0.7",
+    "@types/react-router-dom": "^5.3.3",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.8.1",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "draft-js": "^0.11.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "postcss": "^8.5.3",
+    "react-hook-form": "^7.54.2",
+    "react-pdf": "^9.2.1",
+    "react-router-dom": "^7.3.0",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.0.11"
+  }
+}
